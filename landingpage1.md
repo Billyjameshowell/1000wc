@@ -7,7 +7,7 @@ page_sections:
   block: header-1
   logo: "/uploads/2018/06/21/cover.png"
   navigation:
-  - link: "/"
+  - link: "/landingpage1"
     link_text: Home
   - link: "#features"
     link_text: Features
@@ -25,7 +25,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2018/06/21/InstantCamera-15.jpg"
+    image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
