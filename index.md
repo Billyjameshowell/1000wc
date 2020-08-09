@@ -7,7 +7,7 @@ page_sections:
   block: header-1
   logo: "/uploads/2018/06/21/cover.png"
   navigation:
-  - link: "/"
+  - link: "/landingpage1"
     link_text: Home
   - link: "#features"
     link_text: Features
