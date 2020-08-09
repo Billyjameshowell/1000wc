@@ -18,7 +18,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Get the <br><strong>Starter Kit</strong>
-  content: Includes your brand new Instant Camera,<br>first month of film and frames for your prints
+  content: Sign up to reserve your Starter Kit.<br>We'll email you when we launch
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
