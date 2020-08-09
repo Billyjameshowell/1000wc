@@ -18,14 +18,13 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Get the <br><strong>Starter Kit</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: Includes your brand new Instant Camera,<br>first month of film and frames for your prints
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    button_text: 'Join the Waitlist'
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2020/InstantCamera-15.jpg"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
