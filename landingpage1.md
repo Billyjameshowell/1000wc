@@ -30,7 +30,7 @@ page_sections:
 - template: 2-column-media-element
   block: media-2
   image_1:
-    image: "/uploads/2020/InstantCamera-90.jpg"
+    image: "/uploads/2020/InstantCamera-118.jpg"
     caption: Available in blue or pink
   image_2:    
     image: "/uploads/2020/InstantCamera-100.jpg"
@@ -38,6 +38,13 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Copyright © 2020, 1000WordsClub.com
+- template: content-feature
+  block: feature-1
+  headline: What's in the Starter Kit?
+  content: $200+ value for $100 USD <br>-Camera <br>-Film <br>-Photo Frames
+  media:
+    image: "/uploads/2020/InstantCamera-77.jpg"
+    media_alignment: Left
 
 ---
 foo bar
