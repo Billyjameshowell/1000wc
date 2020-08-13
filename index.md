@@ -33,7 +33,7 @@ page_sections:
     headline: How it works
   col_1:
     headline: Order your Starter Kit
-    content: Includes 1 Instant Camera, 30 prints of film, and two picture frames! 
+    content: Includes 1 Instant Camera, 20 prints of film, and two picture frames! 
   col_2:
     headline: Get your film every month 
     content: Get as little or as much as you need!
