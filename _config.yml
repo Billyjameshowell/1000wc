@@ -1,10 +1,8 @@
-title: uBuild Design Blocks
-author: Forestry.io
-email: support@forestry.io
+title: 1000 Words Club
+author: billy@1000wordsclub.com
+email: info@1000wordsclub.com
 description: >-
-  ubuild-jekyll is a Jekyll theme desgined to work with Forestry's Blocks feature.
-  This theme provides a set of page-level components and a pre-configured Forestry Blocks UI
-  that will empower content editors to construct their own webpages.
+  Instant Camera Subscription Box
 #baseurl: "/1000wc" # the subpath of your site, e.g. /blog
 url: "1000wordsclub.com" # your site's origin, e.g. https://forestry.io
 permalink: "/:title:output_ext"
