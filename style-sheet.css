@@ -559,6 +559,26 @@ input.inverted::placeholder {
     }
 }
 
+.block-cta-bar-2 {
+    padding: 32px;
+    padding: 2rem;
+    background: #8CC4E2;
+}
+
+
+.block-cta-bar-2 .container {
+    text-align: center
+}
+
+.block-cta-bar-2 .container p{
+    font-size: 12.8px;
+    font-size: 1rem;
+    color: #fff;
+    padding-bottom: .5rem
+}
+
+
+
 .block-footer-1 {
     font-size: 12.8px;
     font-size: .8rem;

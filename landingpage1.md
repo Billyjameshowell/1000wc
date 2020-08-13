@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/landingpage1"
     link_text: Home
-  - link: "#features"
+  - link: "#block-three-column-1"
     link_text: Features
   - link: "#pricing"
     link_text: Pricing
@@ -55,6 +55,10 @@ page_sections:
   image_2:    
     image: "/uploads/2020/InstantCamera-100.jpg"
     caption: Capture crisp images
+- template: signup-bar
+  block: cta-bar-2
+  content: Ready to reserve your Starter Kit?
+  
 - template: simple-footer
   block: footer-1
   content: Copyright © 2020, 1000WordsClub.com
