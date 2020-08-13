@@ -439,6 +439,10 @@ input.inverted::placeholder {
         flex: 0 0 calc(50% - 4rem)
     }
 }
+.block-three-column-1 h2 {
+    padding: 5rem;
+    text-align: center;
+}
 
 .block-three-column-1 .columns {
     display: -ms-flexbox;

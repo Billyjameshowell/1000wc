@@ -27,6 +27,26 @@ page_sections:
     image: "/uploads/2020/InstantCamera-15.jpg"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+- template: 3-column-text
+  block: three-column-1
+  header:
+    headline: How it works
+  col_1:
+    headline: Order your Starter Kit
+    content: Includes 1 Instant Camera, 30 prints of film, and two picture frames! 
+  col_2:
+    headline: Get your film every month 
+    content: Get as little or as much as you need!
+  col_3:
+    headline: Extras
+    content: Each month we send handpicked accessories ranging from magnetic frames to photo albums.
+- template: content-feature
+  block: feature-1
+  headline: What's in the Starter Kit?
+  content: $200+ value for $100 USD <br>-Camera <br>-Film <br>-Photo Frames
+  media:
+    image: "/uploads/2020/InstantCamera-77.jpg"
+    media_alignment: Left
 - template: 2-column-media-element
   block: media-2
   image_1:
@@ -38,13 +58,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Copyright © 2020, 1000WordsClub.com
-- template: content-feature
-  block: feature-1
-  headline: What's in the Starter Kit?
-  content: $200+ value for $100 USD <br>-Camera <br>-Film <br>-Photo Frames
-  media:
-    image: "/uploads/2020/InstantCamera-77.jpg"
-    media_alignment: Left
-
 ---
 foo bar
