@@ -9,12 +9,12 @@ page_sections:
   navigation:
   - link: "/landingpage1"
     link_text: Home
-  - link: "#block-three-column-1"
-    link_text: Features
-  - link: "#pricing"
+  - link: "/landingpage1 #howitworks"
+    link_text: How It Works
+  - link: "/landingpage1 #feature-1"
     link_text: Pricing
-  - link: "#team"
-    link_text: Team
+  - link: "/landingpage1 #gallery"
+    link_text: Gallery
 - template: hero-banner-w-image
   block: hero-2
   headline: Get the <br><strong>Starter Kit</strong>
