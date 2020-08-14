@@ -61,6 +61,6 @@ page_sections:
   
 - template: simple-footer
   block: footer-1
-  content: Copyright © 2020, 1000WordsClub.com
+  content: Copyright © 2020, 1000WordsClub.com <br> <a href="https://www.instagram.com/1000wordsclub">Follow us on Instagram</a> 
 ---
 foo bar
