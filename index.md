@@ -43,7 +43,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   headline: What's in the Starter Kit?
-  content: $200+ value for $100 USD <br>-Camera <br>-Film <br>-Photo Frames
+  content: $250+ value for $149 USD <br>-Camera <br>-Film <br>-Photo Frames
   media:
     image: "/uploads/2020/InstantCamera-77.jpg"
     media_alignment: Left
